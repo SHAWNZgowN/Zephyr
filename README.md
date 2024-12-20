@@ -30,17 +30,17 @@ Zephyr combines functionality with modern design principles to deliver an engagi
 
 <img src="https://github.com/user-attachments/assets/9618f11e-05ff-4689-ac60-b0b66ed492b5" width="400" height="800"/>
 
-<img src="https://github.com/user-attachments/assets/9618f11e-05ff-4689-ac60-b0b66ed492b5" width="400" height="800"/>
+<img src="https://github.com/user-attachments/assets/34527c48-06c4-421f-81ac-b390beeac1ab" width="400" height="800"/>
 
-<img src="https://github.com/user-attachments/assets/9618f11e-05ff-4689-ac60-b0b66ed492b5" width="400" height="800"/>
+<img src="https://github.com/user-attachments/assets/40bbabfa-969f-439d-b811-e15a70e3b57d" width="400" height="800"/>
 
-<img src="https://github.com/user-attachments/assets/9618f11e-05ff-4689-ac60-b0b66ed492b5" width="400" height="800"/>
+<img src="https://github.com/user-attachments/assets/1ac7ba1b-62b4-4fe9-a6ca-53fd772439d5" width="400" height="800"/>
 
-<img src="https://github.com/user-attachments/assets/9618f11e-05ff-4689-ac60-b0b66ed492b5" width="400" height="800"/>
+<img src="https://github.com/user-attachments/assets/814181bc-ee8f-42db-bc49-6764e17bff81" width="400" height="800"/>
 
-<img src="https://github.com/user-attachments/assets/9618f11e-05ff-4689-ac60-b0b66ed492b5" width="400" height="800"/>
+<img src="https://github.com/user-attachments/assets/260c9b4b-03a2-4d12-9644-037b3127bdbb" width="400" height="800"/>
 
-<img src="https://github.com/user-attachments/assets/9618f11e-05ff-4689-ac60-b0b66ed492b5" width="400" height="800"/>
+<img src="https://github.com/user-attachments/assets/ed99a94a-5bf2-4ca6-8ebc-84c088477954" width="400" height="800"/>
 
 
 
