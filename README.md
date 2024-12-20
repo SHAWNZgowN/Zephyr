@@ -28,6 +28,9 @@ Zephyr is a feature-rich mobile application that provides real-time weather upda
 
 Zephyr combines functionality with modern design principles to deliver an engaging and practical mobile application, making it an essential tool for users seeking reliable weather information.
 
+
+
+
 <img src="https://github.com/user-attachments/assets/9618f11e-05ff-4689-ac60-b0b66ed492b5" width="400" height="800"/>
 
 <img src="https://github.com/user-attachments/assets/34527c48-06c4-421f-81ac-b390beeac1ab" width="400" height="800"/>
