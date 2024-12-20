@@ -30,4 +30,18 @@ Zephyr combines functionality with modern design principles to deliver an engagi
 
 <img src="https://github.com/user-attachments/assets/9618f11e-05ff-4689-ac60-b0b66ed492b5" width="400" height="800"/>
 
+<img src="https://github.com/user-attachments/assets/9618f11e-05ff-4689-ac60-b0b66ed492b5" width="400" height="800"/>
+
+<img src="https://github.com/user-attachments/assets/9618f11e-05ff-4689-ac60-b0b66ed492b5" width="400" height="800"/>
+
+<img src="https://github.com/user-attachments/assets/9618f11e-05ff-4689-ac60-b0b66ed492b5" width="400" height="800"/>
+
+<img src="https://github.com/user-attachments/assets/9618f11e-05ff-4689-ac60-b0b66ed492b5" width="400" height="800"/>
+
+<img src="https://github.com/user-attachments/assets/9618f11e-05ff-4689-ac60-b0b66ed492b5" width="400" height="800"/>
+
+<img src="https://github.com/user-attachments/assets/9618f11e-05ff-4689-ac60-b0b66ed492b5" width="400" height="800"/>
+
+
+
 
