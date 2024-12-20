@@ -27,3 +27,6 @@ Zephyr is a feature-rich mobile application that provides real-time weather upda
 - **Weather News**: Keeps users informed with relevant news, focusing on PAGASA updates.
 
 Zephyr combines functionality with modern design principles to deliver an engaging and practical mobile application, making it an essential tool for users seeking reliable weather information.
+
+![1](https://github.com/user-attachments/assets/9618f11e-05ff-4689-ac60-b0b66ed492b5)
+
