@@ -1,0 +1,52 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Zephyr" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    </style>
+
+        <!-- Base application theme -->
+        <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+            <!-- Primary brand color -->
+            <item name="colorPrimary">#a7d5fd</item>
+            <item name="colorPrimaryVariant">#171c2b</item>
+            <item name="colorOnPrimary">@color/white</item>
+
+            <!-- Secondary brand color -->
+            <item name="colorSecondary">#a7d5fd</item>
+            <item name="colorSecondaryVariant">#a7d5fd</item>
+            <item name="colorOnSecondary">@color/black</item>
+
+            <!-- Status bar color -->
+            <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+
+            <!-- Text input style -->
+            <item name="textInputStyle">@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox</item>
+        </style>
+
+        <!-- Custom style for Login/Register TextInputLayout -->
+        <style name="LoginTextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+            <item name="boxStrokeColor">#a7d5fd</item>
+            <item name="boxStrokeWidth">1dp</item>
+            <item name="android:textColorHint">#80FFFFFF</item>
+            <item name="hintTextColor">#a7d5fd</item>
+            <item name="android:textColor">@color/white</item>
+        </style>
+
+        <!-- Custom style for Login/Register Buttons -->
+        <style name="LoginButton" parent="Widget.MaterialComponents.Button">
+            <item name="android:backgroundTint">#a7d5fd</item>
+            <item name="android:textColor">#171c2b</item>
+            <item name="android:padding">15dp</item>
+            <item name="android:textSize">16sp</item>
+            <item name="cornerRadius">8dp</item>
+        </style>
+
+        <!-- Custom style for clickable text -->
+        <style name="ClickableText">
+            <item name="android:textColor">#a7d5fd</item>
+            <item name="android:textSize">14sp</item>
+            <item name="android:clickable">true</item>
+            <item name="android:focusable">true</item>
+        </style>
+</resources>

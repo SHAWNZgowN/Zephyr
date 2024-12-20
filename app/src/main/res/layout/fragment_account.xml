@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#171c2b"
+    android:padding="16dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- Profile Section -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="250dp"
+            android:orientation="vertical"
+            android:gravity="center_horizontal">
+
+            <!-- Profile Icon -->
+            <ImageView
+                android:layout_width="200dp"
+                android:layout_height="130dp"
+                android:src="@drawable/ic_account"
+                android:layout_marginTop="50dp"/>
+
+            <!-- Username -->
+            <TextView
+                android:id="@+id/usernameTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="vonkaiser1900"
+                android:textColor="#FFFFFF"
+                android:textSize="18sp"
+                android:paddingTop="8dp"
+                android:textStyle="bold" />
+
+            <!-- Email -->
+            <TextView
+                android:id="@+id/emailTextView"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="vonkaiser1900@gmail.com"
+                android:textColor="#80FFFFFF"
+                android:textSize="14sp"
+                android:paddingTop="4dp" />
+        </LinearLayout>
+
+        <!-- Converter Options -->
+
+
+        <!-- Menu Items -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="8dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="8dp"
+            android:background="@color/highlight"
+            android:orientation="vertical"
+            android:padding="26dp">
+
+            <!-- About -->
+            <TextView
+                android:id="@+id/aboutBtn"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:layout_marginBottom="8dp"
+                android:clickable="true"
+                android:drawableStart="@drawable/ic_info"
+                android:drawablePadding="8dp"
+                android:focusable="true"
+                android:gravity="center_vertical"
+                android:onClick="onAboutClicked"
+                android:paddingVertical="8dp"
+                android:text="  About"
+                android:textColor="#FFFFFF"
+                android:textSize="18sp" />
+
+            <!-- Log Out -->
+            <TextView
+                android:id="@+id/logOut"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:clickable="true"
+                android:drawableStart="@drawable/ic_logout"
+                android:drawablePadding="8dp"
+                android:focusable="true"
+                android:gravity="center_vertical"
+                android:onClick="onLogOutClicked"
+                android:paddingVertical="8dp"
+                android:text=" Log Out"
+                android:textColor="#FFFFFF"
+                android:textSize="18sp" />
+        </LinearLayout>
+
+    </LinearLayout>
+</ScrollView>

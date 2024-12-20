@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:padding="20dp"
+    android:gravity="center_vertical"
+    app:cardCornerRadius="16dp"
+    android:layout_marginTop="5dp"
+    android:background="@color/highlight">
+
+    <!-- Day -->
+    <TextView
+        android:id="@+id/tvDay"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="20dp"
+        android:text="Sat"
+        android:textColor="@color/white"
+        android:textSize="11sp" />
+
+    <!-- Weather Icon -->
+    <ImageView
+        android:id="@+id/ivWeatherIcon"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:src="@drawable/ic_thunder"
+        android:layout_marginEnd="15dp" />
+
+    <!-- Weather Description -->
+    <TextView
+        android:id="@+id/tvDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Storm"
+        android:textStyle="bold"
+        android:textColor="@color/accent_blue"
+        android:textSize="11sp" />
+
+    <View
+        android:layout_width="225dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1" />
+
+    <!-- Temperature (Max) -->
+    <TextView
+        android:id="@+id/tvMaxTemp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="21°C"
+        android:textColor="@color/white"
+        android:textSize="12sp"/>
+
+
+</LinearLayout>

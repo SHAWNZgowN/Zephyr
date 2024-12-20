@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1031807479616",
+    "project_id": "zephyr-a9805",
+    "storage_bucket": "zephyr-a9805.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031807479616:android:71c8c14050a08dbd7494a5",
+        "android_client_info": {
+          "package_name": "com.example.zephyr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBJwDTEfvJE8YDXRyUhAFzbXftDutt9L4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
